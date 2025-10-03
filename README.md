@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sylvester, a passionate Django developer with less than 4 years of experience in building scalable and efficient web applications. My expertise includes:<br><br>Django framework<br>Python programming language<br>Database management systems (MySQL, PostgreSQL)<br>Front-end development (HTML, CSS, JavaScript)<br>Agile development methodologies<br><br>I'm always looking to collaborate on exciting projects and contribute to the open-source community. Feel free to reach out to me for any opportunities or discussions.
+Hi, I'm Sylvester, a passionate Django developer with more than 4 years of experience in building scalable and efficient web applications. My expertise includes:<br><br>Django framework<br>Python programming language<br>Database management systems (MySQL, PostgreSQL)<br>Front-end development (HTML, CSS, JavaScript)<br>Agile development methodologies<br><br>I'm always looking to collaborate on exciting projects and contribute to the open-source community. Feel free to reach out to me for any opportunities or discussions.
 
 
 ## 🌐 Socials:
